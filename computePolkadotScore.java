@@ -107,6 +107,6 @@ public final class AngelicaPolkadotScore {
                           (¸,,,,,';_'\\ ßy §(V)òó†(–)775 ™
                 """;
 
-        System.out.println(computePolkadotScore(art)); // 64
+        System.out.println(computePolkadotScore(art));
     }
 }
